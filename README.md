@@ -7,3 +7,4 @@ My name is Andy and I'm a social software engineer
 - 👯 I’m looking to collaborate on TypeScript projects for fun
 - 🤔 I’m looking for advise on data science in preparation for a Master's degree
 - 💬 Ask me about TypeScript
+- ⚡️ Fun fact: I used to live in Sheffield for four year 🏙️
