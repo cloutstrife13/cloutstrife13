@@ -1,10 +1,14 @@
-### Hi there 👋
+### Ey up, fam? Welcome to Andy's junkyard of ones and zeroes 👋
 
-My name is Andy and I'm a social software engineer  
+🙍🏼‍♀️ About
+- I'm a Berlin-based Backend Engineer with some architectural vision
+- I've studied Computer Science in Sheffield, England
+- I have an unhealthy obsession with Raccoons
 
-- 🔭 I’m currently working on concepts geared towards solving societal problems
-- 🌱 I’m currently learning Haskell, F#, and Flutter
-- 👯 I’m looking to collaborate on TypeScript projects for fun
-- 🤔 I’m looking for advise on data science in preparation for a Master's degree
-- 💬 Ask me about TypeScript
-- ⚡️ Fun fact: I used to live in Sheffield for four year 🏙️
+💻 Projects
+- Still scheming something to end the housing crisis I guess?
+- Currently learning Haskell, F#, and Flutter
+
+💫 Stack
+- I enjoy working with TypeScript, React, NextJS, Tailwind, NestJS, lerna, C#, .NET, Azure, Docker
+- Also love touching researchy tech such as Knowledge Graphs (SPARQL)
