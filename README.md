@@ -10,5 +10,5 @@
 - Currently learning Haskell, F#, and Flutter
 
 💫 Stack
-- I enjoy working with TypeScript, React, NextJS, Tailwind, NestJS, lerna, C#, .NET, Azure, Docker
+- I enjoy working with TypeScript, Vite, React, NextJS, Tailwind, NestJS, lerna, C#, .NET, Azure, Docker
 - Also love touching researchy tech such as Knowledge Graphs (SPARQL)
